@@ -65,6 +65,7 @@
 									map: map,
 									position: latlng,
 									content:
+										'<h1>You Are Here!</h1>' +
 										'Pincode: ' + pincode
 								});
 							}
