@@ -95,7 +95,7 @@
 		</script>
 		
 		<!-- Demo Ads -->
-		<script src="//www.toddmotto.com/ads/ads.js"></script>
+		<script src="https://www.toddmotto.com/ads/ads.js"></script>
 		
 	</body>
 </html>
