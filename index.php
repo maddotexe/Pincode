@@ -21,7 +21,7 @@
 		</div>
 		<?php echo'name' ?>
 		<div id="google_canvas"></div>
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBThhf0FsmT7YnwF3RVdDbQvd2bvvgIkQ4&callback=initMap"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBThhf0FsmT7YnwF3RVdDbQvd2bvvgIkQ4"></script>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 	    <script>
 	    (function() {
